@@ -1,8 +1,7 @@
 
 ### Hi Every One I' am: 👋
 
-![formygit](https://user-images.githubusercontent.com/112722029/191100287-02e56ca1-9c60-40ea-a929-94933aca0b0d.png)
-
+![formygit2](https://user-images.githubusercontent.com/112722029/191138563-b7970a59-4d6b-47c9-8dfd-f5dd09c85074.png)
 
 ### Tech & Tools Preference
 
