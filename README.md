@@ -8,7 +8,7 @@
 ```javascript
 const thai = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, Sql Server],
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, Sql Server, Asp.Net 5, ASP.NET 7],
   tools: [Angular, Ionic, FireBase, Node, Bootstrap, Git],
 }
 ```
