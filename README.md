@@ -1,7 +1,7 @@
 
 ### Hi Every One I' am: 👋
 
-![formygit2](https://user-images.githubusercontent.com/112722029/191138563-b7970a59-4d6b-47c9-8dfd-f5dd09c85074.png)
+![Myself](https://github.com/BryantBeltre/BryantBeltre/assets/112722029/c2300b4b-8fef-4b83-8e92-52229be70dcf)
 
 ### Tech & Tools Preference
 
