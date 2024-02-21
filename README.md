@@ -8,8 +8,8 @@
 ```javascript
 const thai = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, Sql Server, Asp.Net 5, ASP.NET 7],
-  tools: [Angular, Ionic, FireBase, Node, Bootstrap, Git],
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, Sql Server],
+  tools: [Angular, Ionic, FireBase, Node, Bootstrap, Git, Azure DevOps, Asp.Net 5, ASP.NET 7, .NET FRAMEWORK, Web Forms],
 }
 ```
 
